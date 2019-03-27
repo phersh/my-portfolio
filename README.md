@@ -1,2 +1,3 @@
-# my-portfolio
-Portfolio of projects based on AWS and React
+# Phil Hershkoiwtz portfolio project
+
+This is a my professional projects portfolio. It uses AWS and ReactJS.
